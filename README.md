@@ -1,5 +1,8 @@
 # N8N Postgres Send Image Teams
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**  
+
+
 Deploy n8n and write a workflow to automatically call an API every day to fetch dog images and send them to Microsoft Teams.  
 
 ## Overview
